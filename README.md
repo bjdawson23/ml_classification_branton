@@ -240,8 +240,6 @@ This project was developed as part of an applied machine learning course. For qu
 
 - **Author**: Branton Dawson
 - **Course**: Applied Machine Learning  
-- **Institution**: [Your Institution]
-- **Contact**: [Your Email]
 
 ## 📄 License & Usage
 
