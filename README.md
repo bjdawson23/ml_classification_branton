@@ -3,6 +3,8 @@
 **Author:** Branton Dawson  
 **Course:** Applied Machine Learning  
 **Date:** November 11, 2025  
+Notebook link: [Classification Mid_term](https://github.com/bjdawson23/ml_classification_branton/blob/main/classification_analysis.ipynb)
+Peer Review: [Peer_Review](https://github.com/bjdawson23/ml_classification_branton/blob/main/peer_review.md)
 
 ## 🎯 Project Overview
 
