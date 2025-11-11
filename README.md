@@ -4,6 +4,8 @@
 **Course:** Applied Machine Learning  
 **Date:** November 11, 2025  
 
+## 📂 Project Links
+
 - Notebook link: [Classification Mid_term](https://github.com/bjdawson23/ml_classification_branton/blob/main/classification_analysis.ipynb)
 
 - Peer Review: [Peer_Review](https://github.com/bjdawson23/ml_classification_branton/blob/main/peer_review.md)
@@ -18,20 +20,6 @@ This repository contains a comprehensive machine learning analysis for predictin
 - **Target:** Binary classification - Heart disease presence (0 = No, 1 = Yes)  
 - **Algorithms Compared:** Decision Tree Classifier, Support Vector Machine (SVM), Neural Network (MLP)
 - **Feature Cases:** Age groups, cholesterol levels, and maximum heart rate (thalach)
-
-## 📂 Project Links
-
-### 🔗 Main Analysis Notebook
-**[Heart Disease Classification Analysis](notebooks/ml_classification_branton/ml_classification_branton.ipynb)**
-- Complete data exploration, feature engineering, and model comparison
-- Interactive visualizations and decision tree plots
-- Comprehensive performance analysis with clinical insights
-
-### 🔗 Peer Review Documentation  
-**[Peer Review Analysis](peer_review.md)**
-- Detailed methodology review and validation
-- Model performance critique and recommendations
-- Professional assessment of analytical approach
 
 ## 🏆 Key Results Summary
 
@@ -80,11 +68,6 @@ python -m venv .venv
 **Windows (PowerShell):**
 ```powershell
 .\.venv\Scripts\activate
-```
-
-**macOS / Linux / WSL:**
-```bash
-source .venv/bin/activate
 ```
 
 ### 4️⃣ Install Required Packages
