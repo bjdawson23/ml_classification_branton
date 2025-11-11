@@ -5,11 +5,13 @@
 - **Reviewer:** Branton Dawson  
 - **Review Date:** November 11, 2025
 
-- Notebook link: [Midterm Heart Disease Classification](https://github.com/anjana-codes/ml_classification_anjana/blob/main/notebooks/classification_anjana.ipynb)
+---
 
-- The notebook structured and easy to follow.
-- Feature Selection & Justification: All 13 inputs were chosen as they have a strong correlation with heart disease.
-- Reflections are well thought out and easy to read.
+Notebook link: [Midterm Heart Disease Classification](https://github.com/anjana-codes/ml_classification_anjana/blob/main/notebooks/classification_anjana.ipynb)
+
+1. The notebook structured and easy to follow.
+2. Feature Selection & Justification: All 13 inputs were chosen as they have a strong correlation with heart disease.
+3. Reflections are well thought out and easy to read.
 
 - I chose Anjana's project to review as it covered the same heart disease analysis that I did and found it very interesting.
 - There is a second notebook completed covering HR Employee Attrition.  
