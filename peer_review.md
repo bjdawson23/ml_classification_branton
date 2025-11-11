@@ -32,8 +32,14 @@ This peer review evaluates the heart disease classification project across multi
 
 **Key Takeaways for Author:**
 
+Positive Feedback
+
 1. The systematic approach to algorithm comparison is exemplary
 2. Feature engineering shows good domain knowledge
+
+Constructive Feedback
+
+1. I would only suggest trying another model for the analysis
 
 ---
 
