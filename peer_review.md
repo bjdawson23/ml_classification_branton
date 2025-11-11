@@ -1,28 +1,24 @@
 # Peer Review: Heart Disease Classification Analysis
 
 **Project:** Machine Learning Classification Analysis  
-**Author:**  
+**Author:**  Anjana Dhakal
 **Reviewer:** Branton Dawson  
-**Review Date:** November 11, 2025  
+**Review Date:** November 11, 2025 
 
-Peer Review (Required)
+- Notebook link: [Midterm Heart Disease Classification](https://github.com/anjana-codes/ml_classification_anjana/blob/main/notebooks/classification_anjana.ipynb)
 
-Review one other GitHub repository and provide feedback on:
+- The notebook structured and easy to follow.
+- Feature Selection & Justification: All 13 inputs were chosen as they have a strong correlation with heart disease.
+- Reflections are well thought out and easy to read.
 
-    Clarity & Organization (Is the notebook structured and easy to follow?)
-    Feature Selection & Justification (Do the chosen features make sense given the objectives?)
-    Model Performance & Comparisons (Are the results and comparisons clearly explained?)
-    Reflection Quality (Are insights well thought out?)
+## 4-point Repository Checklist
 
-Submission: Submit a short peer review document in your own repository titled peer_review.md.
-The peer review must contain a clickable Markdown link to the notebook (.ipynb) file reviewed along with your personal, well-organized and presented 4-pont review. Provide specifics - both positive and constructive feedback. Suggest improvements where possible and explain why a different choice might be useful as well. Focus on actionable suggestions that the author could realistically implement.
-4-point Repository Checklist
+Verify the repository contains:
 
-Verify your repository contains:
-
-[ ] Jupyter Notebook with proper name, numbered sections and reflections.
-[ ] README.md (see above) [ ] Dataset, stored in a data folder.
-[ ] Peer Review (peer_review.md).
+[x] Jupyter Notebook with proper name, numbered sections and reflections.
+[x] README.md (see above)
+[x] Dataset, stored in a data folder.
+[x] Peer Review (peer_review.md).
 
 ## 📋 Review Summary
 
@@ -31,6 +27,7 @@ This peer review evaluates the heart disease classification project across multi
 This project demonstrates strong foundational machine learning skills with practical application to healthcare. The author shows excellent understanding of algorithm characteristics and appropriate feature engineering. The systematic comparison approach and honest assessment of limitations indicate mature analytical thinking.
 
 **Key Takeaways for Author:**
+
 1. Your systematic approach to algorithm comparison is exemplary
 2. Feature engineering shows good domain knowledge
 3. Consider adding cross-validation and hyperparameter tuning for more robust results
