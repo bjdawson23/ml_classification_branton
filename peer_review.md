@@ -1,9 +1,9 @@
 # Peer Review: Heart Disease Classification Analysis
 
-**Project:** Machine Learning Classification Analysis  
-**Author:**  Anjana Dhakal
-**Reviewer:** Branton Dawson  
-**Review Date:** November 11, 2025
+- **Project:** Machine Learning Classification Analysis  
+- **Author:**  Anjana Dhakal
+- **Reviewer:** Branton Dawson  
+- **Review Date:** November 11, 2025
 
 - Notebook link: [Midterm Heart Disease Classification](https://github.com/anjana-codes/ml_classification_anjana/blob/main/notebooks/classification_anjana.ipynb)
 
@@ -11,18 +11,18 @@
 - Feature Selection & Justification: All 13 inputs were chosen as they have a strong correlation with heart disease.
 - Reflections are well thought out and easy to read.
 
-I chose Anjana's project to review as it covered the same heart disease analysis that I did and found it very interesting.
-There is a second notebook completed covering HR Employee Attrition.  
+- I chose Anjana's project to review as it covered the same heart disease analysis that I did and found it very interesting.
+- There is a second notebook completed covering HR Employee Attrition.  
 **GREAT WORK ON BOTH!!**
 
 ## 4-point Repository Checklist
 
 Verify the repository contains:
 
-[x] Jupyter Notebook has proper name, numbered sections and reflections.
-[x] README.md - the README file is very well organized and informative and has required information and project links
-[x] Dataset, stored in a data folder.  There is a data folder with the requied data file(s)
-[x] Peer Review (peer_review.md) - there is a required peer review file with a completed review.
+- [x] Jupyter Notebook has proper name, numbered sections and reflections.
+- [x] README.md - the README file is very well organized and informative and has required information and project links
+- [x] Dataset, stored in a data folder.  There is a data folder with the requied data file(s)
+- [x] Peer Review (peer_review.md) - there is a required peer review file with a completed review.
 
 ## 📋 Review Summary
 
